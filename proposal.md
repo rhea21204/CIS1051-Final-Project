@@ -2,19 +2,19 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Riddle
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A murder mystery, chose your own adventure game with three main outcomes. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+It will be a game built on the Ren'Py engine. This will allow users to be apart of an interactive story. As they play the story is customized based on the chooses they make. There will be three outcomes tied to their decisions they make along the way. The user will take the point of view of a private investigator. They will be invesitigating a murder while trying to protect the next victim. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+NA
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
