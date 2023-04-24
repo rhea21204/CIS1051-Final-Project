@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Rhea Patel
 
 #### Your section leader's name
 
-TODO
+Chong Li
 
 #### Project title
 
-TODO
+Riddle
 
 ***
 
@@ -22,8 +22,8 @@ TODO
 
 #### What have you not done for your project yet?
 
-TODO
+We have not had a chnace to look at the animation part of our plan.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Not any so far, tthe only one rightnow would be the animation.
